@@ -3,7 +3,7 @@ title: "Second"
 date: 2022-04-11T14:26:37+02:00
 draft: false
 cover:
-    image: img/download.jpeg
+    image: img/download.jpg
     alt: 'This is a post image'
     caption: 'This is the caption'
 tags: ['css','html']
